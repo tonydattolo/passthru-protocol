@@ -18,6 +18,7 @@ This “office-hours” summary strips out business, legal, and front-end specif
 
 #### 2 Happy-Path Flow (four steps)
 
+
 1. **Origination / Funding**  
    `fundMortgage()`  
    - Lender sends USDC → Router  
